@@ -1,0 +1,9 @@
+﻿  CMyListCtrl.cpp
+c:\users\정윤오\desktop\filemanager\filemanager\cmylistctrl.cpp(73): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\정윤오\desktop\filemanager\filemanager\cmylistctrl.cpp(208): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\정윤오\desktop\filemanager\filemanager\cmylistctrl.cpp(193): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+c:\users\정윤오\desktop\filemanager\filemanager\cmylistctrl.cpp(296): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\정윤오\desktop\filemanager\filemanager\cmylistctrl.cpp(493): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\정윤오\desktop\filemanager\filemanager\cmylistctrl.cpp(559): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\정윤오\desktop\filemanager\filemanager\cmylistctrl.cpp(561): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  FileManager.vcxproj -> C:\Users\정윤오\Desktop\FileManager\Debug\FileManager.exe
