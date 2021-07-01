@@ -19,5 +19,5 @@
 
 - 파일 메타데이터 정보 변경
 메타데이터가 누락되었거나, 기준을 새롭게 정립하기 위해 메타데이터를 변경<br>
-![image](https://user-images.githubusercontent.com/29244603/124133357-b75d8b80-dabc-11eb-8c6c-6505dec1a312.png)<br>
+![image](https://user-images.githubusercontent.com/29244603/124133415-c5aba780-dabc-11eb-9042-6610f660bdd0.png)<br>
 ![image](https://user-images.githubusercontent.com/29244603/123585148-a93e0f80-d81d-11eb-9f3b-cec2677ab96b.png)<br>
